@@ -14,6 +14,22 @@ let projectsList = [
         demo: 'https://apartinvestments.com/',
         codeURL: '#',
     },
+    {
+        title: 'Resale Collection',
+        desc: 'Search and compare among 15,000+ properties and 800+ prime compounds across Egypt — with compound, map, and unit browsing.',
+        img: 'https://media.base44.com/images/public/6abaa245f0f2163c0736f2e7/c9adf594d_screencapture-apartinvestments-resale-2026-10-06-20_14_44.png',
+        tags: ['Base44', 'Real Estate', 'Resale'],
+        demo: 'https://apartinvestments.com/resale',
+        codeURL: '#',
+    },
+    {
+        title: 'Red Sea Collection',
+        desc: 'Primary & resale on the Red Sea — hand-picked developer-direct inventory with project cards, agent chat, and after-sales support.',
+        img: 'https://media.base44.com/images/public/6abaa245f0f2163c0736f2e7/d9f169f5c_screencapture-apartinvestments-redsea-2026-10-06-20_15_03.png',
+        tags: ['Base44', 'Real Estate', 'Red Sea'],
+        demo: 'https://apartinvestments.com/redsea',
+        codeURL: '#',
+    },
 ];
 
 // --- Assignments ---
